@@ -18,9 +18,17 @@ I’m an aspiring full-stack developer with a passion for creating efficient and
 - Experimenting with cloud services like AWS for deploying applications.
 
 ### 📫 Get in Touch
-- **Email**: [phamdanh0305@gmail.com]
-- **LinkedIn**: [linkedin.com/in/your-profile]
-- **Facebook**: [your-portfolio.com](https://www.facebook.com/danhpham.235/)
+<a href="mailto:phamdanh0305@gmail.com">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Gmail" width="32" height="32">
+</a>
+  
+<a href="https://www.facebook.com/danhpham.235/">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" alt="Facebook" width="32" height="32">
+</a>
+  
+<a href="https://www.instagram.com/zanhh23/">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="Instagram" width="32" height="32">
+</a>
 
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=danh-pham235&show_icons=true&theme=radical)
